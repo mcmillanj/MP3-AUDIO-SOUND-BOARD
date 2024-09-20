@@ -7,3 +7,5 @@ given by html
 #The css is used for the styleing of the project
 
 #Git using the basic commands to commit and add files to my repository
+
+#---------------------------------------------------------------------------------------------
